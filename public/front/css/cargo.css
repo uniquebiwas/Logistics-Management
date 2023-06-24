@@ -1,0 +1,205 @@
+
+/* New Form css */
+.form-cover, .form-cover1 {
+    border: 1px solid #000;
+    font-size: 11px;
+    background: #f4fff3;
+    max-width: 797px;
+    margin: auto;
+    overflow: hidden;
+    line-height: 1.2;
+}
+.lists .form-control {
+    height: 17px;
+}
+.form-cover1 {
+    background: #f5f8ff;
+    max-width: 850px;
+    font-size: 13px;
+    height:auto;
+}
+.form-input-page {
+    font-family: 'Roboto', sans-serif;
+}
+.form-input-page .form-control {
+    border: none;
+    font-size: 12px;
+    background: transparent;
+    padding: 5px 0;
+    line-height: 15px;
+}
+.form-input-page .form-control:focus{
+    border: none;
+}
+.part1-right{
+    padding: 10px 10px;
+    max-height: 192px;
+}
+.part1-right1{
+    padding: 10px 10px;
+    height:306px;
+}
+.form-part1 {
+    border-bottom: 1px solid #000;
+}
+.part1-right-text {
+    text-align: center;
+}
+
+.part1-right-text p {
+    margin-bottom: 0;
+    color: #000;
+}
+
+.form-part2::placeholder {
+    vertical-align: top;
+    line-height: 0;
+}
+.form-part3 table {
+    border-top: 1px solid #000;
+    height: 438px;
+}
+.form-part3 table th{
+    padding: 7px 7px;
+    border-right: 1px solid #000;
+    vertical-align: top;
+    text-transform: capitalize;
+    font-weight: normal;
+    border-bottom: 1px solid #000;
+    font-size: 12px;
+    text-align: center;
+}
+.form-part3 table th:last-child {
+    border-right: none;
+}
+.form-part3 table td{
+    padding: 7px 7px;
+    border-right: 1px solid #000;
+    vertical-align: top;
+}
+.form-part3 table td:last-child {
+    border-right: none;
+}
+.form-part3 .form-control {
+    height: 340px;
+}
+.form-part4 {
+    border-top: 1px solid #000;
+}
+.form-part4-left {
+    padding: 10px 10px;
+    height: 223px;
+}
+
+.form-part4-right {
+    padding: 10px 10px;
+    height: 257px;
+}
+.form-part4 p {
+    font-size: 11px;
+    color: #000;
+    line-height: 1.3;
+}
+.form-part4 label {
+    margin-bottom: 10px;
+}
+.form-cover1 label {
+    font-weight: 500;
+}
+.lists li {
+    display: flex;
+    white-space: nowrap;
+    align-items: center;
+}
+.lists li label {
+    margin-right: 10px;
+    font-weight: normal;
+}
+.form1-part3 table th {
+    border-bottom: 1px solid #000;
+    font-weight: 500;
+    text-align: center;
+}
+.form1-part3 table{
+    height: 314px;
+}
+.form1-part3 .form-control {
+    height: 236px;
+}
+.form-part7 ul li {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+.form1-part4-right p, .form1-part4-left p{
+    font-size: 13px;
+    color: #000;
+    line-height: 1.4;
+}
+.details li {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.details label {
+    margin-bottom: 0;
+    margin-right:10px;
+}
+.details li +li {
+    margin-top: 5px;
+}
+.details {
+    margin-top: 52px;
+}
+.form1-part4-left {
+    height: 257px;
+}
+.awbs-cover{
+    max-width: 896px;
+    height:auto;
+    margin:auto;
+    border: 1px solid #785e9b;
+    font-size: 11px;
+    line-height: 15px;
+    color:#785e9b;
+}
+.awbs-cover p{
+    font-size: 11px;
+    line-height: 15px;
+    color:#785e9b;
+}
+.imp-text {
+    border-top: 1px solid #785e9b;
+}
+.awbs-cover .form-control {
+    border: none;
+    font-size: 11px;
+    padding:5px 3px;
+    line-height: 11px;
+    border-radius: 0;
+}
+.hbl-logo img {
+    max-width: 180px;
+    margin: auto;
+}
+
+.hbl-logo {
+    text-align: center;
+    margin-top: 40px;
+}
+.form3-part3 .form-control {
+    height: 253px;
+}
+.form3-part3 table{
+    height: 320px;
+}
+p{
+    margin-bottom:5px;
+}
+.part1-right1 input{
+    height: auto;
+}
+.form-input-page .form-group {
+    margin-bottom: 0;
+}

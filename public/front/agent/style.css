@@ -1,0 +1,69 @@
+.reg-list {
+    box-shadow: 0px 5px 20px rgb(0 0 0 / 14%);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.reg-title {
+    background: #690b0c;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.reg-title h3 {
+    font-size: 16px;
+    margin-bottom:0;
+}
+.register-col .form-control {
+    height: 32px !important;
+    font-size: 13px;
+}
+
+.register-col label {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.register-wrap {
+    padding: 30px 0;
+}
+.register-col .row {
+    align-items: center;
+}
+.global-btn {
+    background: #6b0b0c;
+    color: #fff !important;
+    border: none;
+    padding: 4px 12px 5px;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    white-space: nowrap;
+    font-size: 14px;
+}
+.global-btn i {
+    margin-right: 7px;
+}
+.global-btn:hover {
+    background: #4c0304;
+    color: #fff;
+}
+
+
+
+
+
+
+@media(max-width:575px){
+    .register-col .form-control{
+        margin-bottom:10px;
+    }
+    .register-col .row{
+        margin-bottom:0;
+    }
+}
