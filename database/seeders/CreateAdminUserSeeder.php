@@ -16,10 +16,10 @@ class CreateAdminUserSeeder extends Seeder
     {
         $user = User::create([
             'name' =>  [
-                'np' => 'Nectar Digit',
-                'en' => 'Nectar Digit'
+                'np' => 'Biwas',
+                'en' => 'Biwas'
             ],
-            'email' => 'nectardigit@gmail.com',
+            'email' => 'biwas@gmail.com',
             'password' => Hash::make('admin123'),
             'accountNumber' => '12345',
         ]);
