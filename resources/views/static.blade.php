@@ -56,7 +56,7 @@
                         <tbody>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Company Name:</td>
-                                <td style="padding:5px 10px;width:50%;">Air Logistic Group</td>
+                                <td style="padding:5px 10px;width:50%;">Logistic Management</td>
                             </tr>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Address:</td>
@@ -94,11 +94,11 @@
                         <tbody>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Company Name:</td>
-                                <td style="padding:5px 10px;width:50%;">Air Logistic Group</td>
+                                <td style="padding:5px 10px;width:50%;">Logistic Management</td>
                             </tr>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Attention:</td>
-                                <td style="padding:5px 10px;width:50%;">Air Logistic Group</td>
+                                <td style="padding:5px 10px;width:50%;">Logistic Management</td>
                             </tr>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Address:</td>
@@ -152,7 +152,7 @@
                         <tbody>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Shipper's Reference:</td>
-                                <td style="padding:5px 10px;width:50%;">Air Logistic Group</td>
+                                <td style="padding:5px 10px;width:50%;">Logistic Management</td>
                             </tr>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">No of Pieces:</td>
@@ -166,7 +166,7 @@
                                 <td style="padding:5px 10px;width:50%;">Chargable Weight (Kg):</td>
                                 <td style="padding:5px 10px;width:50%;">5Kg</td>
                             </tr>
-                            
+
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Description of Goods:</td>
                                 <td style="padding:5px 10px;width:50%;">T-Shirt, Chura, Shoes</td>
@@ -224,7 +224,7 @@
             <tr>
                 <th style="text-align: left;padding:5px 10px;font-weight:500;font-size:14px;border:1px solid #d6d6d6;border-top:none;background: #737373;
                 color: #fff;" colspan="2">Shippers Endorsement and Acceptance of Terms & Conditions</th>
-               
+
             </tr>
         </thead>
         <tbody>
@@ -234,7 +234,7 @@
                         <tbody>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Print Name:</td>
-                                <td style="padding:5px 10px;width:50%;">Air Logistic Group</td>
+                                <td style="padding:5px 10px;width:50%;">Logistic Management</td>
                             </tr>
                             <tr>
                                 <td style="padding:5px 10px;width:50%;">Signature:</td>
@@ -254,22 +254,12 @@
                                 <td style="padding:8px 10px 0;line-height: 20px;">
                                 I certify that this shipment does not contain any unauthorized explosive, destructive devices,
                                     hazardous materials, prohibited items or valuable jewelry and Cash.This shipment is not accessible
-                                     to non-authorized persons during preparation, storage and transport. I also certify that I have read 
-                                     and I accept the Terms and Conditions of Air Logistics Group, its associates and agents concerning 
+                                     to non-authorized persons during preparation, storage and transport. I also certify that I have read
+                                     and I accept the Terms and Conditions of Logidtics Management, its associates and agents concerning
                                      the shipment.
                                 </td>
                             </tr>
-                            <!-- <tr>
-                                <td style="padding:8px 10px 0;line-height: 20px;">
-                                    This shipment is not accessible to non-authorized persons during preparation, storage and transport.
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="padding:8px 10px 0;line-height: 20px;">
-                                    I also certify that I have read and I accept the Terms and Conditions of Air Logistics Group, its
-                                    associates and agents concerning the shipment.
-                                </td>
-                            </tr> -->
+
                         </tbody>
                     </table>
                 </td>
@@ -283,7 +273,7 @@
             <tr>
                 <th style="text-align: left;padding:5px 10px;font-weight:500;font-size:14px;border:1px solid #d6d6d6;border-top:none;background: #737373;
                 color: #fff;" colspan="4">Collector/Pickup By</th>
-               
+
             </tr>
         </thead>
         <tbody>
@@ -336,12 +326,11 @@
         <tbody>
             <tr>
                 <td style="line-height: 20px;padding:8px 0px;">
-                    <b>Air Logistics Group’s liability is limited:</b> By tendering this shipment to Air Logistics
-                    Group, the shipper agrees to Air Logistics Group’s liability for loss, damage or delay of this
+                    <b>Logistics Management’s liability is limited:</b> By tendering this shipment to Logistics Management, the shipper agrees to Logistics Management’s liability for loss, damage or delay of this
                     shipment will not exceed US$ 50.00. This shipment may also be subject to the rules relating to
                     liability established by the Warsaw Convention, Montreal Convention and other international treaties
-                    and provisions. Under no circumstance shall Air Logistics Group be liable for special consequential
-                    indirect or incidental damages or losses. Therefore Air Logistics Group recommends the shipper to
+                    and provisions. Under no circumstance shall Logistics Management be liable for special consequential
+                    indirect or incidental damages or losses. Therefore Logistics Management recommends the shipper to
                     purchase insurance for each shipment.
                 </td>
             </tr>

@@ -79,10 +79,10 @@ class IndexPageController extends Controller
         $website = AppSetting::select('*')->orderBy('created_at', 'desc')->first();
 
         $meta = [
-            'meta_title' => @$website->meta_title ?? 'air logistics',
-            'meta_keyword' => @$website->meta_keyword ?? 'air logistics',
-            'meta_description' =>  @$website->meta_description ?? 'air logistics',
-            'meta_keyphrase' => @$website->meta->keyphrase ?? 'air logistic',
+            'meta_title' => @$website->meta_title ?? 'Logistics Management',
+            'meta_keyword' => @$website->meta_keyword ?? 'Logistics Management',
+            'meta_description' =>  @$website->meta_description ?? 'Logistics Management',
+            'meta_keyphrase' => @$website->meta->keyphrase ?? 'Logistics Management',
             'og_image' => $website->og_image ?? $website->logo_url ?? 'og_image',
         ];
         return $meta;

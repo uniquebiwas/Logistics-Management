@@ -216,7 +216,7 @@ class FrontEndController extends Controller
                 'message' => $request->message,
             ]);
             $details = [
-                'title' => 'Mail from Air Logistic Group',
+                'title' => 'Mail from  Logistic Management',
                 'body' => 'We have got your message. We will get back to you soon!'
             ];
 
